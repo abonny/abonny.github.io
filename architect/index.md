@@ -92,3 +92,8 @@ Earners of this designation demonstrated the skills and expertise to perform the
 | JavaScript, AJAX, Prototype, jQuery |
 | Spring Boot, Spring MVC, Spring JPA, JPA, Hibernate |
 | DB2, UniVerse, Oracle, MySQL, PostgreSQL |
+
+***
+
+# Education
+Bachelor of Science in Computer Science • University of Colorado, Boulder
