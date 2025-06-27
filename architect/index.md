@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 # Certifications
 As a dedicated technology professional, I have earned a diverse set of industry-recognized certifications spanning cloud architecture, DevOps, automation, and application development. My credentials demonstrate proven expertise with leading platforms such as AWS, Microsoft Azure, GitHub, HashiCorp Terraform, Kubernetes, SUSE Rancher, and Cloud Foundry. These certifications reflect my commitment to continuous learning and my ability to design, implement, and manage robust, scalable, and secure solutions across a variety of modern IT environments.
 
@@ -43,7 +41,7 @@ Passing the GitHub Foundations certification exam validates subject matter exper
 * Describe fundamental principles of machine learning on Azure
 * Describe features of computer vision workloads on Azure
 * Describe features of Natural Language Processing (NLP) workloads on Azure
-* Describe features of generative AI workloads on Azure
+* Describe features of generative AI workloads on Azure.  
 [In Depth Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900)
 
 [AI-900](https://learn.microsoft.com/en-us/users/lukepahler-1629/credentials/certification/azure-ai-fundamentals?tab=credentials-tab)
@@ -57,10 +55,11 @@ Earners of the HashiCorp Certified: Terraform Associate certification know the b
 The SUSE Certified Administrator (SCA) in Rancher Manager 2.5 for Rancher Prime certification is designed for Dev Ops engineers and system administrators who work with Rancher Manager for Rancher Prime. This certification demonstrates fundamental knowledge of the architecture and components of Rancher Manager as well as processes for registering, provisioning, configuring, and backup/restore of Kubernetes clusters using Rancher Manager. In addition, it demonstrates an understanding of application and workflow management on downstream clusters and an understanding of Kubernetes multi-cluster management with Rancher Manager.
 
 [SUSE Rancher 2.5](https://suse.useclarus.com/view/verify/)
-[//]: # ( TODO Have to manually enter into to verify `pahler` `441`? )
+<!-- ( TODO Have to manually enter into to verify `pahler` `441`? )-->
 
 ## Certified Rancher Operator
 This is an older certification that is being replaced since SUSE bought the Rancher company.  Back in the day I was a Rancher expert, and I have the movie posters they sent me to prove it!
+<img src="assets/images/rancher-logo-square.png" alt="Rancher Company" width="250"/>
 
 "This certification is designed for IT professionals who have experience managing Kubernetes clusters with Rancher. The exam covers topics such as installing and configuring Rancher, managing clusters, deploying and managing workloads, and monitoring and troubleshooting." [devopsschool.com](https://www.devopsschool.com/blog/rancher-certification-details/)
 
@@ -69,110 +68,27 @@ Earners of this designation demonstrated the skills and expertise to perform the
 
 [Cloud Foundry Certified Developer](https://www.credly.com/badges/292790fe-82f1-4fb5-8965-4469ca9f184c)
 
-## Header 2
+***
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### Skills Matrix and for SEO
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+| Skills & Tools |
+|:--------------|
+| Microsoft Azure, Amazon Web Services, Google Cloud Platform, Cloud Foundry, Pivotal Web Services |
+| Terraform, Terragrunt, Ansible, Packer, Vault, CI/CD Pipelines, Jenkins, Concourse |
+| Kubernetes, Rancher, Helm, Docker, SaaS, PaaS, IaaS, FaaS, Serverless |
+| Team Lead, Agile SCRUM |
+| GWT, AngularJS, Angular |
+| CVS, SVN, Mercurial, GIT, GitHub Actions |
+| CSS 2/3, HTML, XHTML, HTML 5.0, XML, DTD, Schema, XSLT |
+| Struts and Velocity applications |
+| Java Web Start launched Swing application |
+| JBoss, Tomcat, Crystal Reports |
+| J2EE EJB/Servlet/JSP web application |
+| Linux Expert, Bash Scripting, Ant, Maven, Gradle |
+| Java (J2SE, J2EE v1.4.2, v5.0, v6.0, v7.0, v8.0, v15.0+), C, C++ |
+| RHEL, Fedora Core, Mandrake, openSuSE, Kubuntu, Ubuntu, Solaris, macOS |
+| Vi/VIM, Emacs, Eclipse, STS, MyEclipse (Genuitec), NetBeans, Visual Studio Code |
+| JavaScript, AJAX, Prototype, jQuery |
+| Spring Boot, Spring MVC, Spring JPA, JPA, Hibernate |
+| DB2, UniVerse, Oracle, MySQL, PostgreSQL |
