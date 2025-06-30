@@ -97,3 +97,7 @@ Earners of this designation demonstrated the skills and expertise to perform the
 
 # Education
 Bachelor of Science in Computer Science • University of Colorado, Boulder
+
+# Socials
+[LinkedIn](https://www.linkedin.com/in/lukepahler){:target="_blank"}  
+[GitHub](https://github.com/abonny){:target="_blank"}
