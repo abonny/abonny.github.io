@@ -25,6 +25,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      WHICH_PAGES: "./architect/"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,7 +35,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./architect/
+          source: "${{env.WHICH_PAGES}}"
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
