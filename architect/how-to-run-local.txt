@@ -1,0 +1,1 @@
+architect % bundle exec jekyll serve
