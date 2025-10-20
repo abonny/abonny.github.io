@@ -92,6 +92,7 @@ Earners of this designation demonstrated the skills and expertise to perform the
 | JavaScript, AJAX, Prototype, jQuery |
 | Spring Boot, Spring MVC, Spring JPA, JPA, Hibernate |
 | DB2, UniVerse, Oracle, MySQL, PostgreSQL |
+| Prompt Engineering, AI training, GPT models, GitHub Copilot |
 
 ***
 
