@@ -5,8 +5,13 @@ layout: default
 # Certifications
 As a dedicated technology professional, I have earned a diverse set of industry-recognized certifications spanning cloud architecture, DevOps, automation, and application development. My credentials demonstrate proven expertise with leading platforms such as AWS, Microsoft Azure, GitHub, HashiCorp Terraform, Kubernetes, SUSE Rancher, and Cloud Foundry. These certifications reflect my commitment to continuous learning and my ability to design, implement, and manage robust, scalable, and secure solutions across a variety of modern IT environments.
 
-## AWS Certified Solutions Architect
+## Azure Databricks Platform Architect
+Earners of this certification demonstrate expertise in designing and implementing scalable data solutions using Azure Databricks. They possess deep knowledge of data engineering, analytics, machine learning, and security on the Azure platform, including ETL processes, real-time data processing, and integration with Azure services like Azure Data Lake Storage and Azure Synapse Analytics. This certification validates the ability to architect end-to-end big data solutions that are efficient, secure, and optimized for performance.
 
+[Azure Databricks Platform Architect](https://credentials.databricks.com/d705608d-0114-4bca-a4bb-c2eb083846a2#acc.JL6mSsCi)
+[Databricks Fundamentals](https://credentials.databricks.com/8fbadcdc-47c3-4b33-ba96-cc493f7d991d#acc.QdHU1F64)
+
+## AWS Certified Solutions Architect
 Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
 
 [AWS Certified Solutions Architect](https://www.credly.com/badges/4434b22b-1d90-4b6d-9426-6800539c7d1e)
