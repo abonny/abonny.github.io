@@ -6,9 +6,9 @@ layout: default
 As a dedicated technology professional, I have earned a diverse set of industry-recognized certifications spanning cloud architecture, DevOps, automation, and application development. My credentials demonstrate proven expertise with leading platforms such as AWS, Microsoft Azure, GitHub, HashiCorp Terraform, Kubernetes, SUSE Rancher, and Cloud Foundry. These certifications reflect my commitment to continuous learning and my ability to design, implement, and manage robust, scalable, and secure solutions across a variety of modern IT environments.
 
 ## Azure Databricks Platform Architect
-Earners of this certification demonstrate expertise in designing and implementing scalable data solutions using Azure Databricks. They possess deep knowledge of data engineering, analytics, machine learning, and security on the Azure platform, including ETL processes, real-time data processing, and integration with Azure services like Azure Data Lake Storage and Azure Synapse Analytics. This certification validates the ability to architect end-to-end big data solutions that are efficient, secure, and optimized for performance.
+Earners of this certification demonstrate expertise in designing and implementing scalable data solutions using Azure Databricks. They possess deep knowledge of data engineering, analytics, machine learning, and security on the Azure platform, including ETL processes, real-time data processing, and integration with Azure services like Azure Data Lake Storage and Azure Synapse Analytics. This certification validates the ability to architect end-to-end big data solutions that are efficient, secure, and optimized for performance.  Luke has deployed multiple databricks instances including the highly secure no public IP access (npip).
 
-[Azure Databricks Platform Architect](https://credentials.databricks.com/d705608d-0114-4bca-a4bb-c2eb083846a2#acc.JL6mSsCi)
+[Azure Databricks Platform Architect](https://credentials.databricks.com/d705608d-0114-4bca-a4bb-c2eb083846a2#acc.JL6mSsCi)  
 [Databricks Fundamentals](https://credentials.databricks.com/8fbadcdc-47c3-4b33-ba96-cc493f7d991d#acc.QdHU1F64)
 
 ## AWS Certified Solutions Architect
